@@ -19,8 +19,7 @@ I’m currently learning the basics of programming and world of IT. I hope this 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Julyss#7716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/JuliaRyzhova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
- <a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="https://ds5.centerstart.ru/sites/ds5.centerstart.ru/files/archive/img/Telegram-Emblema.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Julyss#7716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/JuliaRyzhova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p><a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="[https://ds5.centerstart.ru/sites/ds5.centerstart.ru/files/archive/img/Telegram-Emblema.png](https://protraffic.com/wp-content/uploads/2020/11/obshhenie-bez-granic-vozmozhnosti-i-preimushhestva-telegram.jpg)" width="64" height="32" /></a></p>
 
 ### Badges
 
