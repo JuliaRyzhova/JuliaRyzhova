@@ -1,11 +1,13 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Юлия
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name's Julia!
 ============================================================================================================================
 
-Python Developer
-----------------
 
-I’m currently learning the basics of programming and world of IT. I hope this profile will be updated and developed with me!
+I’m currently learning the basics of programming and world of IT.
+I hope this profile will be updated and developed with me!
+
+My goal - is Python Developer
+----------------
 
 * 🌍  I'm based in Moscow
 
@@ -19,7 +21,7 @@ I’m currently learning the basics of programming and world of IT. I hope this 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Julyss#7716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/JuliaRyzhova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p><a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="[https://ds5.centerstart.ru/sites/ds5.centerstart.ru/files/archive/img/Telegram-Emblema.png](https://protraffic.com/wp-content/uploads/2020/11/obshhenie-bez-granic-vozmozhnosti-i-preimushhestva-telegram.jpg)" width="64" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Julyss#7716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/JuliaRyzhova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/52/f6/4b/52f64b4f80b236249b40048a9b63d27d.png" width="32" height="32" /></a><a href="https://vk.com/julys" target="_blank" rel="noreferrer"><img src="https://mykaleidoscope.ru/x/uploads/posts/2022-10/thumbs/1666192467_5-mykaleidoscope-ru-p-tsvetnie-kartinki-vkontakte-7.png" width="32" height="32" /></a></p>
 
 ### Badges
 
