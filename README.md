@@ -9,7 +9,7 @@
 
 Поэтому с сентября 2022г и по сей день я изучаю новую для себя профессию - **Python Developer!**
 
-============================================================================================================================
+---
 
 
 ### Владею:
@@ -20,14 +20,13 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-============================================================================================================================
+---
 
 
 ### Для связи со мной:
+<a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/52/f6/4b/52f64b4f80b236249b40048a9b63d27d.png" width="32" height="32" /></a><a href="https://vk.com/julys" target="_blank" rel="noreferrer"><img src="https://deskmed.ru/wp-content/files/photo-2-1536x1536.png" width="32" height="32" /></a></p>
 
-<p align="left"> <a href="https://discord.com/users/Julyss#7716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p<a href="https://www.github.com/JuliaRyzhova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://t.me/julyss88" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/52/f6/4b/52f64b4f80b236249b40048a9b63d27d.png" width="32" height="32" /></a><a href="https://vk.com/julys" target="_blank" rel="noreferrer"><img src="https://deskmed.ru/wp-content/files/photo-2-1536x1536.png" width="32" height="32" /></a></p>
-
-============================================================================================================================
+---
 
 
 ### Статистика GitHub
