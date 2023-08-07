@@ -1,5 +1,5 @@
 
-Привет! Меня зовут Юлия!
+Hey there! I'm Julia, nice to meet ya!
 ============================================================================================================================
 When I was a young girl in school, my father had a dream that I would become a programmer.
 
@@ -16,9 +16,8 @@ So, starting from September 2022 until now, I have been dedicatedly studying to 
 
 ### Languages
 
-
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="44" height="44" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="44" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="44" height="44" alt="Java" /></a>
 </p>
 
 ---
