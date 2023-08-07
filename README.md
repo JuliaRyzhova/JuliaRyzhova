@@ -12,7 +12,7 @@ So, starting from September 2022 until now, I have been dedicatedly studying to 
 ---
 
 
-## Stack and Technology:
+## Stack and Technologies:
 
 ### Languages
 
