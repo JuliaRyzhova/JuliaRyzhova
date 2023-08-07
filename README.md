@@ -35,6 +35,8 @@ So, starting from September 2022 until now, I have been dedicatedly studying to 
 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> </a>  
 
+
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/f2/2c/61/f22c618f03e7019b84c69831946fa09d.png" alt="VSCode" height="50" /></a> <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png" alt="Intellig Idea" height="50" /></a> 
 ---
 
 ### Contact with me:
